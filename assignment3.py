@@ -3,6 +3,7 @@ a=input("enter name1")
 b=input("enter name2")
 c=input("enter name3")                                            #creating a user defined list
 d=input("enter name4")
+print (type(a))
 L=[]
 L.append(a)
 L.append(b)
